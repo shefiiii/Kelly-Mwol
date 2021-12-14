@@ -2,7 +2,7 @@
 Re-edit Amalser + Shefin Sir
 */
 
-const LizaMwol = require('../events');
+const KellyMwol = require('../events');
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
 const Config = require('../config')
