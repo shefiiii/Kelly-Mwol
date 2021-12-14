@@ -1,5 +1,5 @@
 /* Amalser Bot
-Re-edit Amalser + ShefinSir
+Re-edit Amalser + Shefin Sir
 */
 
 const LizaMwol = require('../events');
