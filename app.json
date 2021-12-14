@@ -142,7 +142,7 @@
         "BOTV2_NAME": {
             "description": "heading for bgm command reply",
             "required": false,
-            "value": "Kᴇʟʟʏ Ꮇᴡᴏʟ࿐"
+            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴋᴇʟʟʏ ᴍᴏʟ࿐"
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by (hunk!nd3 p4d4y41!",
@@ -150,7 +150,7 @@
             "value": "39999600"
         },
         "WORK_TYPE": {
-            "description": "Liza Mwol Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Kelly Mwol Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -190,7 +190,7 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "Kᴇʟʟʏ Ꮇᴡᴏʟ࿐"
+            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴋᴇʟʟʏ ᴍᴏʟ࿐"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
