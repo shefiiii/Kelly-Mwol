@@ -19,7 +19,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 *whatsapp group : https://chat.whatsapp.com/HtNneOrmY8W1U3gkP4pXOh*
 
 
-*githublink       _https://tinyurl.com/yjdej5a2_*
+*githublink       https://github.com/Shefin-Sir/Kelly-Mwol*
 
 
 *audio commads    _https://tinyurl.com/ydvlpbol_*
